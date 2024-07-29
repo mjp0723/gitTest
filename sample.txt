@@ -3,3 +3,5 @@ bye
 nextweek
 nextmonth
 nextyear
+nexttest
+nexthour
